@@ -11,7 +11,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 5,
    "metadata": {},
    "outputs": [
     {
@@ -397,7 +397,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": 8,
    "metadata": {},
    "outputs": [
     {
@@ -507,7 +507,7 @@
        "5        14.970646  94.70         5.30                7.9  "
       ]
      },
-     "execution_count": 3,
+     "execution_count": 8,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -529,6 +529,13 @@
     "county_char = county_char.dropna()\n",
     "county_char.head()"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
   },
   {
    "cell_type": "markdown",
@@ -650,7 +657,9 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "metadata": {},
+   "metadata": {
+    "scrolled": true
+   },
    "outputs": [
     {
      "data": {
